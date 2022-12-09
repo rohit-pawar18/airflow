@@ -1,0 +1,4 @@
+snowflake-connector-python
+snowflake-sqlalchemy
+apache-airflow-providers-snowflake
+git+https://biourjaRohit:accesstoken@gitlab.com/biourjapower/bu_snowflake.git@v0.1.0
